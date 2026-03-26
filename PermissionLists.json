@@ -39,6 +39,6 @@
     "Name": "Tester",
     "Prefix": "Tester",
     "Level": 100,
-    "Group": { "GroupId": 35241772, "MinRank": 100 }
+    "Group": { "GroupId": 35241772, "MinRank": 5 }
   }
 }
