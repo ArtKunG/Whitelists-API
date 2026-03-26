@@ -1,0 +1,44 @@
+{
+  "Holder": {
+    "Name": "Holder",
+    "Prefix": "Holder",
+    "Level": 650,
+    "Group": { "GroupId": 35241772, "MinRank": 255 }
+  },
+  "Ownership": {
+    "Name": "Owner",
+    "Prefix": "Owner",
+    "Level": 600,
+    "Group": { "GroupId": 35241772, "MinRank": 254 }
+  },
+  "Manager": {
+    "Name": "Manager",
+    "Prefix": "Manager",
+    "Level": 550,
+    "Group": {}
+  },
+  "Developer": {
+    "Name": "Developer",
+    "Prefix": "Developer",
+    "Level": 400,
+    "Group": {}
+  },
+  "Administrator": {
+    "Name": "Administrator",
+    "Prefix": "Administrator",
+    "Level": 300,
+    "Group": {}
+  },
+  "Moderator": {
+    "Name": "Moderator",
+    "Prefix": "Moderator",
+    "Level": 248,
+    "Group": {}
+  },
+  "Tester": {
+    "Name": "Tester",
+    "Prefix": "Tester",
+    "Level": 100,
+    "Group": { "GroupId": 35241772, "MinRank": 100 }
+  }
+}
